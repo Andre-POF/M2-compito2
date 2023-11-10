@@ -26,7 +26,9 @@ REGOLE
 */
 
 /*
-console.log (12 + 20);
+let somma;
+somma = 12 + 20;
+console.log (somma);
 */
 
 /* ESERCIZIO 4
@@ -73,7 +75,7 @@ let myself = {
 console.log(myself);
 */
 
-/* ESERCIZIO 7
+/* ESERCIZIO 8
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
  Verifica che name1 sia diversa da name2 (suggerimento: è la stessa cosa di verificare che la loro uguaglianza sia falsa).
  Infine, verifica che la loro uguaglianza diventi true se entrambe vengono trasformate in lowercase (senza cambiare il valore di name2!).
